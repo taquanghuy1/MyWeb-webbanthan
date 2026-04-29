@@ -17,6 +17,10 @@ Trong đó, mình nổi bật hai mô hình chính là:
 
 Blog Niche: xây dựng một website chuyên sâu về một chủ đề cụ thể như du lịch, ẩm thực, review… và kiếm tiền thông qua quảng cáo hoặc bài viết tài trợ
 Dropshipping: bán hàng online mà không cần nhập kho, tập trung vào các sản phẩm đang có xu hướng trên thị trường
-<img width="1131" height="705" alt="screenshot_1777443509" src="https://github.com/user-attachments/assets/feb7290c-9049-45fe-ad32-87be7027062f" />
-<img width="1134" height="715" alt="screenshot_1777443542" src="https://github.com/user-attachments/assets/efbb56fe-c0de-4cd7-b906-7eeba2e046ef" />
+
+
+
+
+<img width="1147" height="713" alt="screenshot_1777445046" src="https://github.com/user-attachments/assets/11518977-9465-4851-816f-a99f54529a6c" />
+
 Cảm ơn thầy cô đã xem slide của em.
