@@ -43,4 +43,8 @@ Hệ thống biểu mẫu: Form nhập liệu gồm Họ tên, Email, Tiêu đ�
 Chân trang (Footer): Tổng hợp lại các kênh mạng xã hội và thông tin bản quyền của PC Store năm 2026.
 <img width="529" height="541" alt="8" src="https://github.com/user-attachments/assets/48ff3b1b-fd38-4532-9631-75fbbdb568ff" />
 
+ ## công nghệ sử dụng
+Design:
+
+canva
 
