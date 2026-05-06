@@ -10,7 +10,7 @@ Tương tác khách hàng: Tích hợp form liên hệ trực tuyến để gử
 
 Tối ưu hóa tìm kiếm sản phẩm: Hệ thống bộ lọc danh mục (Laptop, Linh kiện...) và phân trang giúp người dùng dễ dàng tìm thấy thiết bị phù hợp.
 
-  *Trang Chủ (Home)
+🏠Trang Chủ (Home)
   
 Thông điệp chủ đạo (Hero Section): Khẳng định vị thế thương hiệu với dòng chữ "PC Store: Nâng tầm trải nghiệm Gaming & Công nghệ".
 
@@ -18,7 +18,7 @@ Nội dung giới thiệu nhanh: Cung cấp giải pháp máy tính tối ưu ch
 
 Kêu gọi hành động (CTA): Các nút "Khám phá ngay" và "Liên hệ tư vấn" được đặt tại vị trí nổi bật nhất. 
 <img width="716" height="487" alt="1" src="https://github.com/user-attachments/assets/340f617b-9667-4c5a-9ac2-ff5215dee22f" />
- *Trang Giới thiệu (About)
+👥Trang Giới thiệu (About)
  
 Năng lực đội ngũ: Trình bày về chuyên môn của đội ngũ (Team Expertise) và cam kết đối với khách hàng (Customer Commitment).
 
@@ -26,7 +26,7 @@ Thành viên chủ chốt: Giới thiệu các nhân sự quản lý cùng vai t
 
 Hệ thống kỹ năng (Skills): Hiển thị các thế mạnh cốt lõi dưới dạng biểu tượng hoặc danh sách trực quan.
 <img width="713" height="491" alt="5" src="https://github.com/user-attachments/assets/1e120e39-49cb-46e6-a9e4-356cb5574f90" />
-Trang Sản phẩm (Products)
+💻Trang Sản phẩm (Products)
 
 Danh mục đa dạng: Trưng bày các dòng máy tính như Laptop Dell Inspiron 15, Laptop ASUS TUF Gaming, PC Gaming RTX 3060 kèm mức giá cụ thể.
 
@@ -34,7 +34,7 @@ Khu vực Xu hướng mới: Giới thiệu các sản phẩm có hiệu năng v
 
 Tính năng bổ sung: Các banner "Xem thêm ưu đãi" giúp thúc đẩy hành vi mua sắm của khách hàng.
 <img width="500" height="539" alt="7" src="https://github.com/user-attachments/assets/c37b3cfb-3ab3-4197-ad72-1591082b9c6e" />
-Trang Liên hệ (Contact)
+ 📞Trang Liên hệ (Contact)
 
 Thông tin trực tiếp: Hiển thị rõ ràng địa chỉ (155 Nguyễn Văn Linh, Đà Nẵng), hotline (0123 456 789) và email hỗ trợ.
 
