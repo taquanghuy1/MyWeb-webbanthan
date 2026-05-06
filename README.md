@@ -1,26 +1,41 @@
-Xin chào, mình là Tạ Quang Huy.
+Chào bạn, tôi là Tạ Quang Huy – người đứng sau dự án PC Store. Với niềm đam mê mãnh liệt dành cho phần cứng máy tính và công nghệ, tôi xây dựng PC Store với mục tiêu duy nhất: "Nâng tầm trải nghiệm Gaming & Công nghệ" cho mọi người dùng. Tại đây, chúng tôi không chỉ cung cấp thiết bị, mà còn mang đến những giải pháp tối ưu nhất cho công việc và giải trí của bạn.
+1. Chức năng chính của website
+Website PC Store được thiết kế như một nền tảng thương mại điện tử và giới thiệu dịch vụ kỹ thuật số, tập trung vào trải nghiệm người dùng với các chức năng chính:
 
-Mình là một người đang theo đuổi con đường kiếm tiền online thông qua việc xây dựng website và phát triển nội dung số. Trong quá trình tìm hiểu và trải nghiệm, mình nhận thấy rằng rất nhiều người muốn bắt đầu kiếm tiền online nhưng lại gặp khó khăn vì không biết nên bắt đầu từ đâu, hoặc bị “ngợp” trước quá nhiều thông tin trên mạng.
+Điều hướng thông minh: Thanh menu giúp người dùng chuyển đổi nhanh chóng giữa các trang chủ, giới thiệu, sản phẩm và liên hệ.
 
-Chính vì vậy, mình đã tạo ra website này với mục tiêu đơn giản:
-giúp người mới có thể tiếp cận việc kiếm tiền online một cách rõ ràng, thực tế và dễ hiểu hơn.
+Trình diễn sản phẩm đa diện: Cho phép xem danh sách sản phẩm theo dạng lưới (Grid) hoặc dạng băng chuyền (Carousel) với các tính năng xem nhanh (Quick View).
 
-🌐 Website này nói về gì?
+Tương tác khách hàng: Tích hợp form liên hệ trực tuyến để gửi yêu cầu tư vấn và hệ thống nút liên kết mạng xã hội (Facebook, TikTok, Shopee) để tối đa hóa kênh hỗ trợ.
 
-Website của mình tập trung vào việc giới thiệu 4 ý tưởng kiếm tiền online trong năm 2026, được chọn lọc dựa trên tiêu chí:
+Tối ưu hóa tìm kiếm sản phẩm: Hệ thống bộ lọc danh mục (Laptop, Linh kiện...) và phân trang giúp người dùng dễ dàng tìm thấy thiết bị phù hợp.
+  *Trang Chủ (Home)
+Thông điệp chủ đạo (Hero Section): Khẳng định vị thế thương hiệu với dòng chữ "PC Store: Nâng tầm trải nghiệm Gaming & Công nghệ".
 
-Dễ bắt đầu cho người mới
-Chi phí thấp
-Có tiềm năng phát triển lâu dài
+Nội dung giới thiệu nhanh: Cung cấp giải pháp máy tính tối ưu cho việc học tập, chơi game và làm việc.
 
-Trong đó, mình nổi bật hai mô hình chính là:
+Kêu gọi hành động (CTA): Các nút "Khám phá ngay" và "Liên hệ tư vấn" được đặt tại vị trí nổi bật nhất. 
+<img width="716" height="487" alt="1" src="https://github.com/user-attachments/assets/340f617b-9667-4c5a-9ac2-ff5215dee22f" />
+ *Trang Giới thiệu (About)
+Năng lực đội ngũ: Trình bày về chuyên môn của đội ngũ (Team Expertise) và cam kết đối với khách hàng (Customer Commitment).
 
-Blog Niche: xây dựng một website chuyên sâu về một chủ đề cụ thể như du lịch, ẩm thực, review… và kiếm tiền thông qua quảng cáo hoặc bài viết tài trợ
-Dropshipping: bán hàng online mà không cần nhập kho, tập trung vào các sản phẩm đang có xu hướng trên thị trường
+Thành viên chủ chốt: Giới thiệu các nhân sự quản lý cùng vai trò chuyên môn của họ.
+
+Hệ thống kỹ năng (Skills): Hiển thị các thế mạnh cốt lõi dưới dạng biểu tượng hoặc danh sách trực quan.
+<img width="713" height="491" alt="5" src="https://github.com/user-attachments/assets/1e120e39-49cb-46e6-a9e4-356cb5574f90" />
+Trang Sản phẩm (Products)
+Danh mục đa dạng: Trưng bày các dòng máy tính như Laptop Dell Inspiron 15, Laptop ASUS TUF Gaming, PC Gaming RTX 3060 kèm mức giá cụ thể.
+
+Khu vực Xu hướng mới: Giới thiệu các sản phẩm có hiệu năng vượt trội, hoạt động bền bỉ và không gian trải nghiệm tối tân.
+
+Tính năng bổ sung: Các banner "Xem thêm ưu đãi" giúp thúc đẩy hành vi mua sắm của khách hàng.
+<img width="500" height="539" alt="7" src="https://github.com/user-attachments/assets/c37b3cfb-3ab3-4197-ad72-1591082b9c6e" />
+Trang Liên hệ (Contact)
+Thông tin trực tiếp: Hiển thị rõ ràng địa chỉ (155 Nguyễn Văn Linh, Đà Nẵng), hotline (0123 456 789) và email hỗ trợ.
+
+Hệ thống biểu mẫu: Form nhập liệu gồm Họ tên, Email, Tiêu đề và Nội dung tin nhắn để tiếp nhận phản hồi.
+
+Chân trang (Footer): Tổng hợp lại các kênh mạng xã hội và thông tin bản quyền của PC Store năm 2026.
+<img width="529" height="541" alt="8" src="https://github.com/user-attachments/assets/48ff3b1b-fd38-4532-9631-75fbbdb568ff" />
 
 
-
-
-<img width="1147" height="713" alt="screenshot_1777445046" src="https://github.com/user-attachments/assets/11518977-9465-4851-816f-a99f54529a6c" />
-
-Cảm ơn thầy cô đã xem slide của em.
