@@ -1,4 +1,4 @@
-Chào bạn, tôi là Tạ Quang Huy – người đứng sau dự án PC Store. Với niềm đam mê mãnh liệt dành cho phần cứng máy tính và công nghệ, tôi xây dựng PC Store với mục tiêu duy nhất: "Nâng tầm trải nghiệm Gaming & Công nghệ" cho mọi người dùng. Tại đây, chúng tôi không chỉ cung cấp thiết bị, mà còn mang đến những giải pháp tối ưu nhất cho công việc và giải trí của bạn.
+ Chào bạn, tôi là Tạ Quang Huy – người đứng sau dự án PC Store. Với niềm đam mê mãnh liệt dành cho phần cứng máy tính và công nghệ, tôi xây dựng PC Store với mục tiêu duy nhất: "Nâng tầm trải nghiệm Gaming & Công nghệ" cho mọi người dùng. Tại đây, chúng tôi không chỉ cung cấp thiết bị, mà còn mang đến những giải pháp tối ưu nhất cho công việc và giải trí của bạn.
 1. Chức năng chính của website
 Website PC Store được thiết kế như một nền tảng thương mại điện tử và giới thiệu dịch vụ kỹ thuật số, tập trung vào trải nghiệm người dùng với các chức năng chính:
 
