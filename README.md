@@ -9,6 +9,7 @@ Trình diễn sản phẩm đa diện: Cho phép xem danh sách sản phẩm the
 Tương tác khách hàng: Tích hợp form liên hệ trực tuyến để gửi yêu cầu tư vấn và hệ thống nút liên kết mạng xã hội (Facebook, TikTok, Shopee) để tối đa hóa kênh hỗ trợ.
 
 Tối ưu hóa tìm kiếm sản phẩm: Hệ thống bộ lọc danh mục (Laptop, Linh kiện...) và phân trang giúp người dùng dễ dàng tìm thấy thiết bị phù hợp.
+
   *Trang Chủ (Home)
 Thông điệp chủ đạo (Hero Section): Khẳng định vị thế thương hiệu với dòng chữ "PC Store: Nâng tầm trải nghiệm Gaming & Công nghệ".
 
