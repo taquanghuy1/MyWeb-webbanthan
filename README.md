@@ -47,4 +47,22 @@ Chân trang (Footer): Tổng hợp lại các kênh mạng xã hội và thông 
 Design:
 
 canva
+## AI
+Công cụ AI: Gemini 3 Flash.
+
+Dòng lệnh tiêu biểu: * "Tạo trang web bán PC gồm 6 sản phẩm, sử dụng CSS Grid, giao diện tối với tông màu đỏ rực."
+
+"Viết nội dung giới thiệu chuyên nghiệp cho công ty PC Store do Quang Huy làm CEO."
+
+"Chỉnh sửa CSS để ảnh sản phẩm luôn khít khung không bị méo bằng object-fit: cover."
+## . Mô tả chức năng, nhiệm vụ
+Trang chủ (trangchu.html): Quảng bá thương hiệu, tạo ấn tượng với Banner Gaming 4K và điều hướng khách hàng.
+
+Giới thiệu (gioithieu.html): Trình bày lịch sử, tầm nhìn, sứ mệnh và đội ngũ lãnh đạo (CEO Quang Huy).
+
+Sản phẩm (sanpham.html): Hiển thị danh mục 6 cấu hình PC dưới dạng lưới (Grid) để khách hàng lựa chọn.
+
+Chi tiết (chitiet.html): Cung cấp thông số kỹ thuật (i7, RTX 4060...) và nút đặt hàng cho từng bộ máy.
+
+Liên hệ (lienhe.html): Thu thập thông tin khách hàng cần tư vấn qua biểu mẫu (Form).
 
