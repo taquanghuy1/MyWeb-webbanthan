@@ -64,6 +64,7 @@ Sản phẩm (sanpham.html): Hiển thị danh mục 6 cấu hình PC dưới d�
 
 Chi tiết (chitiet.html): Cung cấp thông số kỹ thuật (i7, RTX 4060...) và nút đặt hàng cho từng bộ máy.
 
-Liên hệ (lienhe.html): Thu thập thông tin khách hàng cần tư vấn qua biểu mẫu (Form).
+Liên hệ (lienhe.html): Thu thập thông tin khách hàng cần tư vấn qua biểu mẫu (Form)
+ ## kết quả
+ file:///C:/Users/Admin/Desktop/myweb/trangchu.html
  
- https://github.com/taquanghuy1/MyWeb.git
