@@ -66,5 +66,6 @@ Chi tiết (chitiet.html): Cung cấp thông số kỹ thuật (i7, RTX 4060...)
 
 Liên hệ (lienhe.html): Thu thập thông tin khách hàng cần tư vấn qua biểu mẫu (Form)
  ## kết quả
+ https://taquanghuy1.github.io/web.github.io/myweb/trangchu.html
 
  
